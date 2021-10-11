@@ -4,7 +4,8 @@ This repository was created for reproducibility the results of the research by M
 
 Moreover, for faster computing it recomends to use the more powerful GPU like Tesla v100.
 
-The video files were uploaded on google drive: https://drive.google.com/drive/folders/1xTJ7y7QqNlv1y5ICWnLS_FSFknxGt-CA?usp=sharing
+The video files were uploaded on google drive: https://drive.google.com/drive/folders/1xTJ7y7QqNlv1y5ICWnLS_FSFknxGt-CA?usp=sharing. The fibrilation had been starting since MVI_0796.MOV.
+
 
 Description and right order of files for proposed method of preprocessing:
 
