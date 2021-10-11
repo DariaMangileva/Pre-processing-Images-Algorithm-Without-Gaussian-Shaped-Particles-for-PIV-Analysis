@@ -1,5 +1,6 @@
 # Pre-processing-Images-Algorithm-Without-Gaussian-Shaped-Particles-for-PIV-Analysis
-This repository was created for reproducibility the results of the research by Mangileva et al[]. 
+This repository was created for reproducibility the results of the research by Mangileva et al[]
+
 Description and right order of files for proposed method of preprocessing:
 video_fragmentation.py - splitting video into frames
 pieces.py - creating massives with coordinates of each points
