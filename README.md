@@ -1,6 +1,6 @@
 # Pre-processing-Images-Algorithm-Without-Gaussian-Shaped-Particles-for-PIV-Analysis
 
-This repository was created for reproducibility the results of the research by Mangileva et al[]. For correctly work of PIV analis it recomends to use module openpiv that uploaded in this repository as zip file. 
+This repository was created for reproducibility the results of the research by Mangileva et al[1]. For correctly work of PIV analis it recomends to use module openpiv that uploaded in this repository as zip file. 
 
 Moreover, for faster computing it recomends to use the more powerful GPU like Tesla v100.
 
@@ -28,11 +28,18 @@ mask.py - making the area outside the heart black
 
 pivlab.py - PIV analise
 
-Description and right order of files for calculating SSC index:
+Description and right order of files for calculating SSC index[2]:
 
 generator_nc.py - generating nc files
 
 calculating_swirling.py - calculate the max value of SSC index for each vector field
+
+ References
+ 1. 
+ 2. J. Zhou, R.J. Adrian, S. Balachandar, T.M. Kendall, Mechanisms for generating coherent packets
+of hairpin vortices in channel flow, Journal of Fluid Mechanics 387 (1999): 353–96. doi:
+http://dx.doi.org/10.1017/s002211209900467x
+
 
 
 
