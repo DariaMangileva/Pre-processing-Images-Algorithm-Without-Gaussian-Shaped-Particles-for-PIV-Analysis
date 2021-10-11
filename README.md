@@ -39,5 +39,3 @@ calculating_swirling.py - calculate the max value of SSC index for each vector f
 
 
 
-
-
