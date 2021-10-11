@@ -6,6 +6,7 @@ Moreover, for faster computing it recomends to use the more powerful GPU like Te
 
 The video files were uploaded on google drive: https://drive.google.com/drive/folders/1xTJ7y7QqNlv1y5ICWnLS_FSFknxGt-CA?usp=sharing. The fibrilation had been starting since MVI_0796.MOV.
 
+It is important to note, the project is under development.
 
 Description and right order of files for proposed method of preprocessing:
 
